@@ -5,9 +5,13 @@ You can use the [editor on GitHub](https://github.com/alanlyyy/AUTOGIS_COURSE/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Link to pages
-[Link](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/base_map.html)
-[Link](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/dominant_service_area.html)
-[Link](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/min_travel_time_by_public_transit.html)
+- [base_map](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/base_map.html)
+
+
+- [dominant_service_area](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/dominant_service_area.html)
+
+
+- [minimum travel_time_dominant_service_area](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/min_travel_time_by_public_transit.html)
 
 ### Markdown
 
