@@ -5,13 +5,22 @@ You can use the [editor on GitHub](https://github.com/alanlyyy/AUTOGIS_COURSE/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Link to pages
+
+Standalone base map for the project:
+
 - [base_map](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/base_map.html)
 
+Adding tool tips to identify dominant service areas:
 
 - [dominant_service_area](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/dominant_service_area.html)
 
+minimum travel time to each shopping center Choropleth map with tooltip:
 
 - [minimum travel_time_dominant_service_area](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/min_travel_time_by_public_transit.html)
+
+Sample static map from exercise 4, looking at minimum travel time in Itis:
+
+- [minimum travel_time_Itis](https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/min_travel_time_by_public_transit.html)
 
 ### Markdown
 
