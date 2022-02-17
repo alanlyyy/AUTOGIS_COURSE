@@ -24,9 +24,9 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[Base_Map_Sample] (https://github.com/alanlyyy/AUTOGIS_COURSE/blob/main/L5/docs/base_map.html)
-[Interactive Map 1] (https://github.com/alanlyyy/AUTOGIS_COURSE/blob/main/L5/docs/dominant_service_area.html)
-[Interactive Map 2] (https://github.com/alanlyyy/AUTOGIS_COURSE/blob/main/L5/docs/min_travel_time_by_public_transit.html)
+[Base_Map_Sample] (https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/base_map.html)
+[Interactive Map 1] (https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/dominant_service_area.html)
+[Interactive Map 2] (https://github.com/alanlyyy/AUTOGIS_COURSE/blob/gh-pages/min_travel_time_by_public_transit.html)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
